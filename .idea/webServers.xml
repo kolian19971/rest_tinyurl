@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1930a988-f488-460a-88e0-0891f090cedf" name="tinyurlapi" url="http://tinyurl-api.free-ukraine.online">
+        <fileTransfer rootFolder="/free-ukraine.online/tinyurl-api" host="bc446096.ftp.tools" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
